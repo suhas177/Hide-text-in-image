@@ -1,4 +1,4 @@
-#  Hiding text messages in an image using steganography\
+#  Hiding text messages in an image using steganography with python
 
 Usage:
 ![image](https://github.com/suhas177/hide-text-in-image/assets/97055087/abc7c596-c82c-457c-abac-e78bb46619e4)
